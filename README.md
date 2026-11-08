@@ -4,6 +4,12 @@ Aplikasi web romantis interaktif berbasis pixel-art untuk membuat janji temu / k
 
 ---
 
+## 🖼️ Pratinjau Tampilan
+
+![Pratinjau Aplikasi](doc/tes.png)
+
+---
+
 ## 📱 Cara Menambahkan Nomor WhatsApp Kamu
 
 Agar tombol **"Bagikan ke WhatsApp"** langsung membuka chat WhatsApp ke nomor HP kamu secara otomatis:
